@@ -1,0 +1,33 @@
+.block1 {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    /*color: #f9faf8;*/
+}
+
+h1 {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+li {
+    display:inline;
+    color: #E5e7eb;
+    font-size: 18px;
+}
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+}
+
+.footer p {
+    color: #E5e7eb;
+    font-size: 18px;
+}
+
+.footer {
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
