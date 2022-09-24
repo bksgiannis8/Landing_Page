@@ -136,3 +136,20 @@ li {
     border-width: thick
     
 }
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+}
+
+.footer p {
+    color: #E5e7eb;
+    font-size: 18px;
+}
+
+.footer {
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+}
+
