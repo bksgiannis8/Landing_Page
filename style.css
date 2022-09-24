@@ -187,3 +187,38 @@ button {
     margin-top: 0px;
     padding-top: 0px;
 }
+
+.block4 {
+    border-left: 350px white;
+    border-right: 350px white;
+    border-top: 100px white;
+    border-bottom: 100px white;
+    border-style: solid;
+}
+
+.b4border {
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 50px white;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 100px;
+}
+
+.block4 .up {
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.b4button {
+    padding-left: 5%;
+}
+
+.block4 button {
+    border: #f9faf8 solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
