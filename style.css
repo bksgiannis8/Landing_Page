@@ -81,3 +81,58 @@ li {
     justify-content: space-between;
     width: 200px;
 }
+
+.block2 {
+    justify-items: center;
+    align-items: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: center;
+    justify-items: center;
+}
+
+.b2text {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.b2boxes {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.block2 .text {
+    width: 145px;
+    text-align: center;
+}
+
+.sq {
+    justify-items: center;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 250px;
+}
+
+
+
+.image {
+    border: 50px #3882f6;
+    display: flex;
+    border-style: solid;
+    border-radius: 15px;
+    height: 150px;
+    width: 150px;
+    flex: 1;
+    border-width: thick
+    
+}
